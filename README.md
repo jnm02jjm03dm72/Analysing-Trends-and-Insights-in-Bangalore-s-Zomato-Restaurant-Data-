@@ -1,6 +1,6 @@
 # Zomato Bangalore Restaurants Data Analysis
 
-This project involves analyzing a dataset of Bangalore restaurants from Zomato. The analysis includes data cleaning, transformation, and applying machine learning algorithms for predictive insights.
+This project involves analyzing a dataset of Bangalore restaurants from Zomato. The analysis includes data cleaning, transformation, and applying machine learning algorithms for predictive insights. Dataset link is https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 ## Table of Contents
 
